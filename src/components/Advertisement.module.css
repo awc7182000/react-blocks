@@ -1,0 +1,10 @@
+.Advertisement{
+    height: 35px;
+    width: 545px;
+    padding: 50px;
+    margin-top: 5px;
+    margin-left: 13px;
+    background-color: #b4a7d6;
+    border: 2px solid black;
+    vertical-align: bottom;
+}

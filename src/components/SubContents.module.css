@@ -1,0 +1,11 @@
+.SubContents{
+    height: 375px;
+    width: 193px;
+    padding: 0px;
+    margin-top: 5px;
+    background-color: #ffd966;
+    border: 2px solid black;
+    vertical-align: top;
+    display: inline-block;
+    margin: 14px;
+}
